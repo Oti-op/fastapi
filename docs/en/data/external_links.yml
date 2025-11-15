@@ -1,5 +1,8 @@
 Articles:
   English:
+  - author: Tech with Tim
+    author_link: https://www.youtube.com/watch?v=SR5NYCdzKkc&t=2424s
+    title: Learn Fast API With This ONE Project
   - author: Apitally
     author_link: https://apitally.io
     link: https://apitally.io/blog/getting-started-with-logging-in-fastapi
